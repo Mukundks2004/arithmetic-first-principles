@@ -1,4 +1,5 @@
-import ArithmeticFirstPrinciples
+import ArithmeticFirstPrinciples.Basic
 
 def main : IO Unit :=
-  IO.println s!"Hello, {hello}!"
+  let _ := ArithmeticFirstPrinciples.Basic.add_comm
+  IO.println "Theorem type checked successfully!"
