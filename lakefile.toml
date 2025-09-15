@@ -1,0 +1,10 @@
+name = "arithmetic-first-principles"
+version = "0.1.0"
+defaultTargets = ["arithmetic-first-principles"]
+
+[[lean_lib]]
+name = "ArithmeticFirstPrinciples"
+
+[[lean_exe]]
+name = "arithmetic-first-principles"
+root = "Main"
