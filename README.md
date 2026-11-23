@@ -1,3 +1,3 @@
 # arithmetic-first-principles
 
-Demo for BetweenBooks blog post
+Demo for blog post
